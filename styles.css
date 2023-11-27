@@ -75,6 +75,9 @@ header address img {
     align-items: flex-start;
     margin-bottom: 40px;
 }
+.hrader-hobbies {
+    margin-top: 150px;
+}
 
 .hobbies div {
     margin-left: 20px;
